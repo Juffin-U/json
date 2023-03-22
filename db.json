@@ -1,76 +1,67 @@
 {
   "books": [
     {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
+        "id": "1",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
+        "id": "2",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
+        "id": "3",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
+        "id": "4",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
+    },
+        "id": "5",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
+        "id": "6",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
+        "id": "7",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     },
     {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
-    },
-    {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
-    },
-    {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
-    },
-    {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
-    },
-    {
-      "core-js": "^3.8.3",
-      "vue": "^3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "^2.0.23"
-    },
-    {
-      "core-js": "3.8.3",
-      "vue": "3.2.13",
-      "vue-router": "^4.0.3",
-      "pinia": "2.0.23"
+        "id": "8",
+        "name": "Жизнь насекомых",
+        "author": "В. Пелевин",
+        "overview": "heh",
+        "pathToPoster": "lifeOfInsect.jpeg",
+        "isRead": "false",
     }
   ]
 }
