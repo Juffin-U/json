@@ -1,41 +1,44 @@
   {
-        "id": "1",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
-        "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg",
-        "isRead": "false"
-      },
-      {
-        "id": "2",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
-        "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg",
-        "isRead": "false"
-      },
-      {
-        "id": "3",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
-        "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg",
-        "isRead": "false"
-      },
-      {
-        "id": "4",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
-        "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg",
-        "isRead": "false"
-      },
-      {
-        "id": "5",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
-        "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg",
-        "isRead": "false"
-      },
+    "books":[
+            {
+                "id": "1",
+                "name": "Жизнь насекомых",
+                "author": "В. Пелевин",
+                "overview": "heh",
+                "pathToPoster": "lifeOfInsect.jpeg",
+                "isRead": "false"
+            },
+            {
+                "id": "2",
+                "name": "Жизнь насекомых",
+                "author": "В. Пелевин",
+                "overview": "heh",
+                "pathToPoster": "lifeOfInsect.jpeg",
+                "isRead": "false"
+            },
+            {
+                "id": "3",
+                "name": "Жизнь насекомых",
+                "author": "В. Пелевин",
+                "overview": "heh",
+                "pathToPoster": "lifeOfInsect.jpeg",
+                "isRead": "false"
+            },
+            {
+                "id": "4",
+                "name": "Жизнь насекомых",
+                "author": "В. Пелевин",
+                "overview": "heh",
+                "pathToPoster": "lifeOfInsect.jpeg",
+                "isRead": "false"
+            },
+            {
+                "id": "5",
+                "name": "Жизнь насекомых",
+                "author": "В. Пелевин",
+                "overview": "heh",
+                "pathToPoster": "lifeOfInsect.jpeg",
+                "isRead": "false"
+            }
+        ]
 }
