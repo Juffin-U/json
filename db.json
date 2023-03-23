@@ -9,52 +9,59 @@
     },
     {
         "id": "2",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Пикник на обочине",
+        "author": "Б. и А. Стругацкие",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "roadsidePicknic.jpeg"
     },
     {
         "id": "3",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Жизнь взаймы",
+        "author": "Ремарк Эрих Мария",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "heavenHasNoFavorites.jpeg"
     },
     {
         "id": "4",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Приключение гуливера",
+        "author": "Д. Свифт",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "guliverTravlers.jpeg"
     },
     {
         "id": "5",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Хлеб с ветчиной",
+        "author": "Ч. Буковки",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "hamOnRay.jpeg"
     },
     {
         "id": "6",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Бойцовский клуб",
+        "author": "Ч. Паланик",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "fightClub.jpeg"
     },
     {
         "id": "7",
-        "name": "Жизнь насекомых",
-        "author": "В. Пелевин",
+        "name": "Клуб самоубийц",
+        "author": "Роберт Льюис Стивенсон ",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "theSuisideClub.jpeg"
     },
     {
         "id": "8",
-        "name": "Жизнь насекомых",
+        "name": "Клуб любителей книг и пирогов из картофельных очистков",
         "author": "В. Пелевин",
         "overview": "heh",
-        "pathToPoster": "lifeOfInsect.jpeg"
+        "pathToPoster": "theGuernseyLiteraryAndPotatoPeelPieSociety.jpeg"
+    },
+    {
+        "id": "9",
+        "name": "Остров сокровищ",
+        "author": "Роберт Льюис Стивенсон ",
+        "overview": "heh",
+        "pathToPoster": "theTreasureIsland.jpeg"
     }
   ]
 }
